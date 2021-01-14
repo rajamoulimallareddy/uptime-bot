@@ -1,0 +1,26 @@
+{
+  "name": "uptime-bot",
+  "version": "1.0.0",
+  "description": "Makes your repl.it links up for 24/7",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navaneethkm004/uptime-bot.git"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/navaneethkm004/uptime-bot/issues"
+  },
+  "homepage": "https://github.com/navaneethkm004/uptime-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "quick.db": "^7.1.3"
+  }
+}
