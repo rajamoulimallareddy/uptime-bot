@@ -4,7 +4,7 @@
 ## What's this?
 A simple uptime bot for repls.
 
-[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/uptime-bot)](https://repl.it/github/navaneethkm004/uptime-bot)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/navaneethkm004/uptime-bot)
 
 ## Author
 
