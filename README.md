@@ -6,7 +6,7 @@ A simple uptime bot for repls.
 
 ## Tutorial:
 
-[<img src="http://img.nkmrepl.repl.co/eqGpu.png">](https://youtu.be/xnH0Hgoyz9Y)
+[<img src="https://github.com/navaneethkm004/my-images/blob/main/Copy%20of%20Yellow%20Simple%20Education%20YouTube%20Channel%20Art.png?raw=true">](https://youtu.be/xnH0Hgoyz9Y)
 
 ## Remix on Glitch
 
