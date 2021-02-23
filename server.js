@@ -28,7 +28,7 @@ client.on("ready", () => {
 });
 
 client.on("ready", () => {
-  client.user.setActivity(`up-help | Created By Navaneeth K M </>#7174`);
+  client.user.setActivity(`up-help | Created By 1947 × A. L. P. H. A.#5794`);
   console.log(`Logined`);
 });
 
